@@ -1,2 +1,2 @@
 # EECS341
-Beer Database for the CLeveland Area
+Beer Database for the Cleveland Area
